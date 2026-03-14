@@ -6,6 +6,6 @@ loki:
 
 promtail:
   enabled: true
-  config:
-    logLevel: info
-    serverPort: 3101
+
+grafana:
+  enabled: false
